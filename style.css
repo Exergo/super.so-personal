@@ -347,17 +347,17 @@ body {
   border-top: 2px solid var(--tertiary-color)!important}
   
 .super-footer.corners .super-footer__icons{
-  display: flex;
-    flex-direction: row;
-    flex-wrap: none;
-    gap: 16px;
+  display: flex!important;
+    flex-direction: row!important;
+    flex-wrap: none!important;
+    gap: 16px!important;
   padding: 0px 850px 0px 0px !important;}
 
 .super-footer.stack .super-footer__links {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: none;
-  align-self: center;
+  display: flex!important;
+  flex-direction: row!important;
+  flex-wrap: none!important;
+  align-self: center!important;
 }
 
 
