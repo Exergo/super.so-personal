@@ -2,8 +2,8 @@
 :root {
   
   /* Colors */
-  --primary-color: #000000;
-  --secondary-color: #E4E2DF;
+  --primary-color: #000000!important;
+  --secondary-color: #E4E2DF!important;
   --tertiary-color: #606060 !important;
   
   /* Notion Colors */
@@ -48,8 +48,8 @@
   --collection-card-cover-height-small: 260px!important;
   --header-cover-height: 40vh!important;
   --image-border-radii: 8px!important;
-  --large-gallery-background-color: var(--primary-color);
-  --large-gallery-text-color: white;
+  --large-gallery-background-color: var(--primary-color)!important;
+  --large-gallery-text-color: white!important;
 
   /* Active colors text: rgb(70, 70, 70) border: rgb(233, 233, 233)*/
   --picker-active-bg-color: var(--tertiary-color)!important;
@@ -59,7 +59,7 @@
   --picker-border-color: var(--primary-color)!important;
   --picker-text-color: black!important;
   --picker-border-radius: .5rem!important;
-  --picker-bg-color: var(--secondary-color);
+  --picker-bg-color: var(--secondary-color)!important;
   /* Hover colors */
   --picker-hover-bg-color: white!important;
   --picker-hover-text-color: var(--primary-color)!important;
@@ -115,8 +115,8 @@ body {
 
 .notion-divider {
     border-bottom: 2px solid var(--tertiary-color) !important;
-    padding-top:.25rem;
-    padding-bottom:.25rem;
+    padding-top:.25rem!important;
+    padding-bottom:.25rem!important;
 }
 
 /* Code */
