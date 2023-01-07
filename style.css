@@ -52,7 +52,7 @@
   --large-gallery-text-color: white;
 
   /* Active colors text: rgb(70, 70, 70) border: rgb(233, 233, 233)*/
-  --picker-active-bg-color: var(--primary-color)!important;
+  --picker-active-bg-color: var(--tertiary-color)!important;
   --picker-active-text-color: white!important;
   --picker-active-border-color: var(--primary-color)!important;
   /* Default colors */
