@@ -2,7 +2,7 @@
 :root {
   
   /* Colors */
-	--primary-color: #000000;
+  --primary-color: #000000;
   --secondary-color: #E4E2DF;
   --tertiary-color: #606060 !important;
   
@@ -109,7 +109,7 @@ body {
   -moz-osx-font-smoothing: grayscale !important;
   text-rendering: optimizeLegibility !important;
   font-weight: 400 !important; 
-	background-color: var(--body-color);
+  background-color: var(--body-color)!important;
 }
 
 
