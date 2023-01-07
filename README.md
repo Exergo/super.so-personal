@@ -12,3 +12,5 @@ Github Pages can work as a CDN and it's free to use! To get started visit this p
 3. Next paste your Custom Code from Super into this file and commit the new file
 4. Head back into Super and in the Code page under the 'Head' tab, include a link to your new css file. You can use the snippet below as a guide, make sure to replace USERNAME and THEME-NAME in the URL below.
 ```<link href="https://USERNAME.github.io/THEME-NAME/style.css" rel="stylesheet" />```
+
+https://docs.super.so/creating-a-template
