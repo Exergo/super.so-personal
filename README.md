@@ -14,3 +14,6 @@ Github Pages can work as a CDN and it's free to use! To get started visit this p
 ```<link href="https://USERNAME.github.io/THEME-NAME/style.css" rel="stylesheet" />```
 
 https://docs.super.so/creating-a-template
+
+Code Block styles (to be pasted in CSS section)
+https://github.com/ccampbell/rainbow
